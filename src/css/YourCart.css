@@ -1,0 +1,12 @@
+.your-cart-container {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.cart-item {
+  margin-bottom: 5px;
+}
+
+.total-price {
+  font-weight: bold;
+}
